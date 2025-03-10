@@ -261,3 +261,21 @@
                                     Unlike Flask or Django, FastAPI allows you to write APIs quickly with built-in data validation, making development faster and more reliable
                          
 ## 12. How can you succinctly convey the purpose and key features of a product?
+
+          Start with a Clear Purpose (One Sentence)
+                        Explain what the product does and who it helps.
+                        Example: “Our AI-powered writing assistant helps professionals create clear, engaging content effortlessly.”
+                        
+         Highlight Key Features (Bullet Points or Short Phrases)
+                        Focus on the most valuable aspects.
+                        Example:
+                                     AI-driven grammar and style suggestions
+                                     Real-time collaboration with team members
+                                     Secure cloud storage for all your documents
+          Emphasize Benefits Over Technical Specs
+                        Show how the features solve user problems.
+                        Example: Instead of “256-bit encryption,” say “Ensures top-level security for your sensitive data.”
+                        
+         Use a Concise, Engaging Tone
+                        Avoid jargon and keep it simple.
+                        Example: “Get error-free writing with AI-powered editing in just one click!”
